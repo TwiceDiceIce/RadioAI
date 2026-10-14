@@ -1,0 +1,6 @@
+﻿streamlit
+numpy
+matplotlib
+joblib
+scikit-learn
+cryptography
